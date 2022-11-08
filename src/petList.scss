@@ -1,0 +1,22 @@
+.pets-list {
+    .pet-table {
+        margin-top: 20px;
+        padding: 2%;
+    }
+
+    .h2-tag-pet {
+        text-align: left;
+        font-size: 1.7rem;
+        color: #5b5b5b;
+        font-weight: 600;
+    }
+    .headaers{
+        display: flex;
+        justify-content: space-between;
+    }
+  .pet-table  .header .MuiPaper-elevation  .MuiTablePagination-root .MuiTablePagination-selectLabel{
+    margin-top: 11px !important;
+
+    }   
+
+}

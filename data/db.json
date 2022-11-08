@@ -1,0 +1,34 @@
+{
+  "pets": [
+    {
+      "id": 1,
+      "tags": "Dog",
+      "description": "The dog is a domesticated descendant of the wolf. Also called the domestic dog, it is derived from the extinct Pleistocene wolf, and the modern wolf is the dog's nearest living relative. The dog was the first species to be domesticated, by hunter-gatherers over 15,000 years ago, before the development of agriculture. "
+    },
+    {
+      "id": 2,
+      "tags": "Dog",
+      "description": "The dog is a domesticated descendant of the wolf. Also called the domestic dog, it is derived from the extinct Pleistocene wolf, and the modern wolf is the dog's nearest living relative. The dog was the first species to be domesticated, by hunter-gatherers over 15,000 years ago, before the development of agriculture. "
+    },
+    {
+      "id": 3,
+      "tags": "Dog",
+      "description": "The dog is a domesticated descendant of the wolf. Also called the domestic dog, it is derived from the extinct Pleistocene wolf, and the modern wolf is the dog's nearest living relative. The dog was the first species to be domesticated, by hunter-gatherers over 15,000 years ago, before the development of agriculture. "
+    },
+    {
+      "tags": "dogs golden retriver",
+      "description": "The dog is a domesticated descendant of the wolf. Also called the domestic dog, it is derived from the extinct Pleistocene wolf, and the modern wolf is the dog's nearest living relative. The dog was the first species to be domesticated, by hunter-gatherers over 15,000 years ago, before the development of agriculture. ",
+      "id": 4
+    },
+    {
+      "tags": "American Bulldog",
+      "description": "The American Bulldog is a large, muscular breed of working dog that were used as stock dogs, catch dogs, and guardians on farms and ranches. They are descended from the Old English Bulldog, which is thought to have arrived in America as early as the 17th century, brought over by working-class immigrants from England",
+      "id": 5
+    },
+    {
+      "tags": "streetdogs",
+      "description": "\nThough most street dogs in the Indian subcontinent are in fact Indian pye-dogs, the names for this breed are often erroneously used to refer to all urban South Asian stray dogs despite the fact that some free-ranging dogs in the Indian subcontinent do not match the \"pariah type\" and may not be pure indigenous dogs ",
+      "id": 6
+    }
+  ]
+}
